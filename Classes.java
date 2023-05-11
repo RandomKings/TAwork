@@ -48,5 +48,5 @@ class BinaryTree {
 
         return maxValue;
     }
-    }
+}
 
