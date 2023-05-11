@@ -15,3 +15,4 @@ public class Main {
         System.out.println("Maximum value in the tree: " + maxValue);
     }
 }
+//i did all 3 as practice :)
